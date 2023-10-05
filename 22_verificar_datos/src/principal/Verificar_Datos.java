@@ -3,6 +3,7 @@ package principal;
 public class Verificar_Datos {
 
 	public static void main(String[] args) {
+		//prueba para github
 		String cursos="Ofimática,Java básico,JavaEE,Spring Boot,Angular,Programación avanzada en Java";
 		
 		
